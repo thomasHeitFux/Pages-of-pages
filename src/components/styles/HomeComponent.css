@@ -1,0 +1,14 @@
+/* HomeComponent.css */
+
+.home-container {
+    margin: 20px;
+  }
+  
+  .home-container h2 {
+    margin: 0;
+  }
+  
+  .home-container p {
+    margin-top: 10px;
+  }
+  
